@@ -1,7 +1,7 @@
 **Company Ledger x Bank Reconciliation Investigation:**
-*Riverside Bike Co Reconciliation Case*
+## *Riverside Bike Co Reconciliation Case*
 
-##**About This Project**
+> **About This Project**
 
 
 
