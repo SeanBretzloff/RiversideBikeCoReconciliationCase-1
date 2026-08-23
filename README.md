@@ -39,7 +39,7 @@ This project was created with simulated data and the intention to practice foren
 #### [Recommended Action]
 - Follow up with the vendor to approve the transaction valid & reconcile the name difference in the company ledger to match the bank statement.
 
-
+ ![Alt](scg-bc-transaction-1.png)
 
 ---
 
