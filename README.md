@@ -43,15 +43,140 @@ This project was created with simulated data and the intention to practice foren
 
 ---
 
-Skills Demonstrated ~ 
-Bank reconciliation, 
-discrepancy analysis, 
-fraud pattern recognition, 
-written findings.
+### #2 ~  
+- **
 
-Found 6/6 planted issues incl. a shell-vendor name mismatch; 
-wrote full findings + summary memo.
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #3 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #4 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #5 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #6 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #7 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #8 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### #9 ~  
+- **
+
+[Extended Description] -  
+
+#### [Reason For Concern]
+- 
+
+#### [Recommended Action]
+- 
+
+ ![Alt](pathway)
+
+---
+
+### Investigative Report Summary
+
+> After the audit, about 9 situations stood out that requires some attention. There were some double charges coming from both QUICKCLEAN JANITORIAL & TREK WHOLESALE SUPPLY that require immediate attention. Additionally, some transactions came from unapproved vendors, "Summit Consulting Group," "OUTGOING WIRE - REF UNKNOWN" & "ZELLE TRANSFER - D. KIM." However, one of the transactions in the list, "Summit Consulting Group," the transaction's name in the bank statement doesn't match what was recorded in the company's ledger. There were also some book keeping errors & charges not reflected in the company ledger, "City Water & Sewer," "OUTGOING WIRE - REF UNKNOWN" & "ZELLE TRANSFER - D. KIM." Finally, there were some transactions that have concerns regarding frequency of charges & high costing than normal, "City Water & Sewer," "Metro Electric Co" & "Sunrise Payroll Services."
+
+### Skills Demonstrated ~ 
+> Bank reconciliation, 
+ discrepancy analysis, 
+ fraud pattern recognition, 
+ written findings.
 
 Time Spent ~2 hrs.
 
 Status ~ Completed
+
+### Files In This REPO
+
+- [Bank Statements, Company Ledger & Investigative Report](Riverside_Bike_Co_Reconciliation_Case.xlsx)
