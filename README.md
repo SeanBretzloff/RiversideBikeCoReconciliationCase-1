@@ -43,33 +43,29 @@ This project was created with simulated data and the intention to practice foren
 
 ---
 
-### #2 ~  
-- **
+### #2 ~ City Water & Sewer 
+- *Book Keeping error*
 
-[Extended Description] -  
+[Extended Description] - REF-1014 Ledger states $412, while the bank records indicate $512.  
 
 #### [Reason For Concern]
-- 
+- Assuming the bookkeeper made a mistake when entering the amount, it causes the bank records and company ledger to not match. 
 
 #### [Recommended Action]
-- 
-
- ![Alt](pathway)
+- Follow up with the bank to verify $512 is the correct charge and reconcile the company ledger.
 
 ---
 
-### #3 ~  
-- **
+### #3 ~ QUICKCLEAN JANITORIAL 
+- *Charged twice in the month*
 
-[Extended Description] -  
+[Extended Description] - REF-1026 charged twice in the month, when it's a monthly fixed expense.  
 
 #### [Reason For Concern]
-- 
+- If the amount charged twice this amount is in error, the company could be losing a large amount of money. 
 
 #### [Recommended Action]
-- 
-
- ![Alt](pathway)
+- Follow up with the bank to verify the double charge. If the charge is an error, retract/reconcile the charge in the company ledger to reflect the reversal on the bank statement.
 
 ---
 
